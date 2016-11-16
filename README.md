@@ -1,7 +1,7 @@
 __USCGA Cyber Team__
 ===============
 
-__Hey! If you are new, and you have the patience to read some things, start with this guide: ___[ForTheNewbs](for_the_newbs.md)___.__
+__Hey! If you are new, and you have the patience to read some things, start with this guide: [ForTheNewbs](for_the_newbs.md).
 
 The purpose of this repository is to act as a homebase for everything the [USCGA] Cyber Team does. This front page acts as an archive of tools, resources, and other materials. Other directories exist for specific events. 
 
@@ -16,7 +16,7 @@ __External Write-ups__
 Solving challenges on your own is never enough; sometimes when you can't get the flag, you need to see how someone else solved it. I highly recommend keeping up with some blogs and other [CTF] enthusiasts to follow their own writeups. This is a really good place to go when you're bored!
 
 |  |  |  |  |  |  
-|--|--|--|--|--|--|
+|------------|------------|------------|------------|------------|------------|
 | [Whitehatters Academy]     | [gn00bz]                                                  | [Obum Chidi]                                 | [Sirius CTF Writeups](http://taishi8117.github.io/) | [Nandy Narwhals]                                    | [CTFHacker]                                            |
 | [Tasteless]                | [Dragon Sector]                                           | [b01lers]                                    | [Capture the Swag]                                  | [0x1337seichi](https://0x1337seichi.wordpress.com/) | [Internetwache](https://en.internetwache.org/archive/) |
 | [pony7](https://pony7.fr/) | [HighOn.Coffee](https://highon.coffee/blog/walkthroughs/) | [HackXCore](http://h4ckx0re-ctf-crew.co.nf/) | [NUS GreyHats](http://nusgreyhats.org/write-ups/)   | [Towers of Hanoi](http://toh.necst.it/)             | [0daysober](https://blog.scrt.ch/category/ctf/)        |
