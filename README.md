@@ -1,7 +1,7 @@
 __USCGA Cyber Team__
 ===============
 
-__Hey! If you are new, and you have the patience to read some things, start with this guide: ___[ForTheNewbs](misc/for_the_newbs.md)___.__
+__Hey! If you are new, and you have the patience to read some things, start with this guide: ___[ForTheNewbs](for_the_newbs.md)___.__
 
 The purpose of this repository is to act as a homebase for everything the [USCGA] Cyber Team does. This front page acts as an archive of tools, resources, and other materials. Other directories exist for specific events. 
 
