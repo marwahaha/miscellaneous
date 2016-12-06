@@ -26,3 +26,59 @@ Feelings don't matter. -- 1/c Trey Maxam
 
 Hang on; I want to make sure I run this correctly first. [enters `man strings`]
 
+"Alcohol doesn't effect me" - 1/c Trey Maxam
+
+"We're not the bad guys, it's our code!" -- Caleb
+
+"Trey your code doesn't even work" -- John, after reading Trey's Python code
+
+"echo adds a newline. I'm a fucking idiot." -- Caleb
+
+"Our script is hoarding flags." -- Caleb
+
+"Python is working at 107%!" -- John, reading `top` output 
+
+Trey Maxam is an idiot. -- Trey Maxam
+
+"John stop breaking my Internet!" -- Trey Maxam
+
+"Trey I need your help, I broke the Internet again." -- John
+
+"What happens to a DHCP-assigned IP address when we turn off DHCP?" - Trey
+"These are the questions the Cyber Team asks itself." - John
+"Well we could just look it up..." - Trey
+"But we can't even do that!" - John
+
+"Trey you getting sick? What, do you have a boss that works you too hard?" - John
+"Yeah! You're like my wife!" - Trey
+
+'Trey we asked you to fix the public firewall -- not break the global firewall!' - Caleb
+
+'I ushe SSH' - John
+
+"Well, it's all fucked up right now, but..." - Caleb Stewart
+
+"I used to rape people left and right until I had my first sexual assault training!" -- Trey Maxam
+
+"FLAT PICTURE DOOR! WHITE FUZZY DOPLHINS!" - Caleb Stewart (on creating passwords)
+
+"A racist mind is a racist kind" - John
+
+"hey FUCK YOU WINDOWS" -- Dean  
+
+"Sitrep: Nothing has changed and everything is still broken" --  Caleb
+
+"No you have to restart it, it thinks it is opposite day!" -- Dean
+
+"Well we don't know what their passive FTP ports are, so we'd have to allow and open like all ephemeral ports". - Caleb
+"WHY DO WE EVEN HAVE FIREWALL, THEN!? LET'S JUST PUT EVERYTHING ON ONE SWITCH." - Trey
+
+"He is bandaiding the network." -Caleb M
+
+"Trey you fixed mail but broke everything else" -- Our White Cell guy
+
+"Uhhhhhhhhhhhhhhhhhhhhhhh...... syntax for the copy command?" -- Julian
+
+"He's so sauccyyyy" -- Sam Robbins
+
+"But MATLAB is so great!" -- Julian
