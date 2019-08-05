@@ -108,7 +108,7 @@ __Resources/Readings__
     - [Exploiting Embedded Devices](https://www.sans.org/reading-room/whitepapers/testing/exploiting-embedded-devices-34022)
     - [scriptjunkie.us Building Secure Networks](https://www.scriptjunkie.us/building-secure-networks/)
     - [Python][Python] [`pickles` hacking](https://media.blackhat.com/bh-us-11/Slaviero/BH_US_11_Slaviero_Sour_Pickles_WP.pdf)
-    - [Abritrary code execution with Python pickles](https://www.cs.uic.edu/~s/musings/pickle.html)
+    - [Arbitrary code execution with Python pickles](https://www.cs.uic.edu/~s/musings/pickle.html)
     - [ToolsWatch]
     - [Real World Haskell](http://book.realworldhaskell.org/read/)
     - [Learn You a Haskell for Great Good!](http://learnyouahaskell.com/)
